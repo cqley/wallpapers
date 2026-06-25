@@ -6,5 +6,5 @@
 | <img src="qrlwql.png" width="400"> | |
 
 ```
-curl -s https://raw.githubusercontent.com/cqley/wallpapers/install.sh | bash
+curl -s https://raw.githubusercontent.com/cqley/wallpapers/refs/heads/main/install.sh | bash
 ```
