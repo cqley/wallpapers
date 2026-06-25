@@ -2,5 +2,5 @@
 
 | | |
 |:-:|:-:|
-| ![](4v3yzp.png) | ![](k82oq6.jpg) |
-| ![](qrlwql.png) | |
+| <img src="4v3yzp.png" width="400"> | <img src="k82oq6.jpg" width="400"> |
+| <img src="qrlwql.png" width="400"> | |
