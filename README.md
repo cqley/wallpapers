@@ -8,6 +8,7 @@
 | <img src="dpvp1j.jpg" width="400"> | <img src="mp2l68.jpg" width="400"> |
 | <img src="p4w9q1.jpg" width="400"> | <img src="r8v3t5.jpg" width="400"> |
 | <img src="f2z6h4.png" width="400"> | <img src="dgeyql.jpg" width="400"> |
+| <img src="zm11rg.jpg" width="400"> | <img src="" width="400"> |
 
 ```
 curl -s https://raw.githubusercontent.com/cqley/wallpapers/refs/heads/main/install.sh | bash
